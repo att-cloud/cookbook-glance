@@ -1,2 +1,2 @@
-name 'glance-S.Lakshmi Vignesh'
+name 'glance'
 version '1.0.0'
